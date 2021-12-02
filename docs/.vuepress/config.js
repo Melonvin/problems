@@ -2,7 +2,7 @@ const nav = require('./nav')
 module.exports = {
   title: '踩过的坑',
   description: 'Just playing around',
-  base: "/",
+  base: "/problems/",
   themeConfig: {
     logo: '',
     nav: nav,
